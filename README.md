@@ -147,8 +147,8 @@ $ ls -l projects/
 ### 📊 Statistiche GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niccoxx&show_icons=true&theme=tokyonight&hide_border=true&locale=it" alt="Statistiche GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccoxx&layout=compact&theme=tokyonight&hide_border=true&locale=it" alt="Linguaggi più usati"/>
+  <img height="165" src="./profile/stats.svg" alt="Statistiche GitHub"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Linguaggi più usati"/>
 </p>
 
 ---
