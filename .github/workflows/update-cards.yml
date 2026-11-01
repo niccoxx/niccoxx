@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # ogni giorno alle 03:00 UTC
+    - cron: "17 3 * * *"   # ogni giorno alle 03:17 UTC
   workflow_dispatch:       # avvio manuale dalla tab Actions
 
 jobs:
