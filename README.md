@@ -3,6 +3,8 @@
   Va messo nel repository pubblico "niccoxx/niccoxx" come README.md.
 -->
 
+<p align="right">🇮🇹 Italiano · <a href="./README.en.md">🇬🇧 English</a></p>
+
 <h1 align="center">Ciao, sono Nicola 👋</h1>
 <h3 align="center">DevOps Engineer · Automation Specialist</h3>
 <p align="center"><i>Automazione, infrastruttura cloud e DevOps · Open source e Linux lover 🐧</i></p>
